@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(45, 45, 45);
+}
+#canvas {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(218, 186, 108);
+  margin: 40px auto;
+  position: relative;
+}
+.snake {
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  top: 50px;
+  left: 250px;
+  position: absolute;
+}
